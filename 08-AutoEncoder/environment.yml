@@ -11,3 +11,5 @@ dependencies:
   - jupyter
   - scikit-learn
   - torchvision
+  - pandas
+  - tqdm
